@@ -1,0 +1,26 @@
+[
+  {
+    "roomId": "R101",
+    "roomNumber": "101",
+    "roomType": "STANDARD",
+    "basePrice": 500000,
+    "floor": 1,
+    "status": "AVAILABLE"
+  },
+  {
+    "roomId": "R201",
+    "roomNumber": "201",
+    "roomType": "DELUXE",
+    "basePrice": 1000000,
+    "floor": 2,
+    "status": "AVAILABLE"
+  },
+  {
+    "roomId": "R301",
+    "roomNumber": "301",
+    "roomType": "SUITE",
+    "basePrice": 2500000,
+    "floor": 3,
+    "status": "AVAILABLE"
+  }
+]

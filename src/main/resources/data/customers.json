@@ -1,0 +1,16 @@
+[
+  {
+    "id": "001200000001",
+    "fullName": "Nguyen Van A",
+    "phone": "0912345678",
+    "email": "vana@example.com",
+    "membershipLevel": "REGULAR"
+  },
+  {
+    "id": "001200000004",
+    "fullName": "Le Thi VIP",
+    "phone": "0987654321",
+    "email": "lethivip@example.com",
+    "membershipLevel": "PLATINUM"
+  }
+]
